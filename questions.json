@@ -1,0 +1,5002 @@
+[
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "Who was known for his wisdom and built the Temple in Jerusalem?",
+        "answer": "Solomon",
+        "scripture": "1 Kings 6:1"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who was the mother of Jesus?",
+        "answer": "Mary",
+        "scripture": "Luke 1:30-31"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who baptized Jesus?",
+        "answer": "John the Baptist",
+        "scripture": "Matthew 3:13"
+    },
+    {
+        "question": "How many disciples did Jesus have?",
+        "answer": "Twelve",
+        "scripture": "Matthew 10:1-2"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who were the first humans created by God?",
+        "answer": "Adam and Eve",
+        "scripture": "Genesis 1:27"
+    },
+    {
+        "question": "Who was the tax collector that climbed a tree to see Jesus?",
+        "answer": "Zacchaeus",
+        "scripture": "Luke 19:1-4"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "Who built the ark?",
+        "answer": "Noah",
+        "scripture": "Genesis 6:13-14"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "What city was destroyed by God because of its wickedness?",
+        "answer": "Sodom",
+        "scripture": "Genesis 19:24-25"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    },
+    {
+        "question": "What was the first miracle Jesus performed?",
+        "answer": "Turning water into wine",
+        "scripture": "John 2:1-11"
+    },
+    {
+        "question": "Who was thrown into the lion's den?",
+        "answer": "Daniel",
+        "scripture": "Daniel 6:16"
+    },
+    {
+        "question": "Who had a coat of many colors?",
+        "answer": "Joseph",
+        "scripture": "Genesis 37:3"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "What is the last book of the New Testament?",
+        "answer": "Revelation",
+        "scripture": "Revelation 1:1"
+    },
+    {
+        "question": "Who was swallowed by a great fish?",
+        "answer": "Jonah",
+        "scripture": "Jonah 1:17"
+    },
+    {
+        "question": "Who was the strongest man in the Bible?",
+        "answer": "Samson",
+        "scripture": "Judges 16:17"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who interpreted Pharaoh's dreams in Egypt?",
+        "answer": "Joseph",
+        "scripture": "Genesis 41:15-16"
+    },
+    {
+        "question": "What is the shortest verse in the Bible?",
+        "answer": "Jesus wept.",
+        "scripture": "John 11:35"
+    },
+    {
+        "question": "What was the name of the giant defeated by David?",
+        "answer": "Goliath",
+        "scripture": "1 Samuel 17:50"
+    },
+    {
+        "question": "Who was the first king of Israel?",
+        "answer": "Saul",
+        "scripture": "1 Samuel 10:1"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who led the Israelites out of Egypt?",
+        "answer": "Moses",
+        "scripture": "Exodus 3:10"
+    },
+    {
+        "question": "Who killed Abel?",
+        "answer": "Cain",
+        "scripture": "Genesis 4:8"
+    }
+]
